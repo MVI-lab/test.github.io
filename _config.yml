@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Machine Vision and Intelligence Lab"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  #bio              : "Short biography for the left-hand sidebar"
+  #location         : "Earth"
+  #employer         : "Red Brick University"
+  #uri              : # URL
+  email            : "naveed.akhtar1@unimelb.edu.au" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
